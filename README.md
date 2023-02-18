@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 Thanks for visiting my profile. I'm a full stack PHP Programmer.
 
 ### How to reach me:
-Email: nipunnoushad8@gmail.com
+Email: noushad_khan@outlook.com
 
 Github: https://github.com/noushadnipun
 
 BitBucket: https://bitbucket.org/noushadnipun
 
-Linkedin: https://bd.linkedin.com/in/noushadnipun
+Linkedin: https://bd.linkedin.com/in/noushad-khan
