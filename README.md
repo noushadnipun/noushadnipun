@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Thanks for visiting my profile. I'm a full stack PHP Programmer.
+Thanks for visiting my profile. I'm a full stack web developer.
 
 ### How to reach me:
 Email: noushad_khan@outlook.com
