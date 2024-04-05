@@ -38,8 +38,9 @@ Github: https://github.com/noushadnipun
 
 BitBucket: https://bitbucket.org/noushadnipun
 
-Linkedin : https://www.linkedin.com/in/noushad-khan
-<!--
 Linkedin: https://bd.linkedin.com/in/noushadnipun
+
+<!--
+Linkedin : https://www.linkedin.com/in/noushad-khan
 -->
 
