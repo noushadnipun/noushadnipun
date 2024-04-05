@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Thanks for visiting my profile. I'm a full stack web developer.
+Thanks for visiting my profile. 
+I'm a passionate full stack web developer.
+
+
+SKILLS
+Programming languages: PHP, Javascript
+Backend Development: Core PHP, Laravel, WordPress
+Front-End Development: HTML, CSS, Bootstrap, jQuery, React, NextJs, Vue, NuxtJs 
+Databases: MySQL, Mariadb
+Version Control System: GitHub, Bitbucket
 
 ### How to reach me:
 Email: noushad_khan@outlook.com
