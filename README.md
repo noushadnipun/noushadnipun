@@ -18,7 +18,7 @@ Thanks for visiting my profile.
 I'm a passionate full stack web developer.
 
 
-**SKILLS**
+### SKILLS
 
 **Programming languages**: PHP, Javascript
 
