@@ -20,7 +20,7 @@ I'm a passionate full stack web developer.
 
 ### SKILLS
 
-**Programming languages**: PHP, Javascript
+**Programming languages**: PHP, Javascript, C/C++, Dart
 
 **Backend Development:** Core PHP, Laravel, WordPress
 
