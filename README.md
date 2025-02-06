@@ -22,7 +22,7 @@ I'm a passionate full stack web developer.
 
 **Programming languages**: PHP, Javascript, C/C++, Dart
 
-**Backend Development:** Core PHP, Laravel, WordPress
+**Backend Development:** Core PHP, Laravel, CodeIgniter, WordPress
 
 **Front-End Development:** HTML, CSS, Bootstrap, jQuery, React, NextJs, Vue, NuxtJs 
 
