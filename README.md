@@ -37,7 +37,7 @@ Email: hello@noushadnipun.com
 Github: https://github.com/noushadnipun
 -->
 
-Linkedin: https://bd.linkedin.com/in/noushadnipun
+Linkedin: https://www.linkedin.com/in/noushadnipun
 
 <!--
 BitBucket: https://bitbucket.org/noushadnipun
