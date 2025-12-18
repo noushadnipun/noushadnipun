@@ -32,7 +32,7 @@ I'm a passionate full stack web developer.
 
 
 ### How to reach me:
-Email: hello@noushadnipun.com
+Email: hello@noushadnipun.com 
 <!--
 Github: https://github.com/noushadnipun
 -->
